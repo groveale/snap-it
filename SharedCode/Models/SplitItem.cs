@@ -1,7 +1,7 @@
 ﻿using System;
-namespace SplitIt.Models
+namespace SharedCode.Models
 {
-    public class SplitItem
+    public class SplitItem : TableData
     {
         public string Name { get; set; }
         public double Amount { get; set; }

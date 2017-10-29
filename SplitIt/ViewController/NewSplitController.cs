@@ -2,9 +2,9 @@ using Foundation;
 using System;
 using UIKit;
 using CoreGraphics;
-using SplitIt.Models;
 using SplitIt.Helpers;
 using System.Diagnostics;
+using SharedCode.Models;
 
 namespace SplitIt
 {

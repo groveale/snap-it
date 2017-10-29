@@ -1,4 +1,6 @@
 ﻿using Foundation;
+using SharedCode;
+using SharedCode.Service;
 using UIKit;
 
 namespace SplitIt
@@ -9,6 +11,7 @@ namespace SplitIt
     public class AppDelegate : UIApplicationDelegate
     {
         // class-level declarations
+        public static ICloudService CloudService { get; set; }
 
         public override UIWindow Window
         {
@@ -20,6 +23,8 @@ namespace SplitIt
         {
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
+
+            CloudService = new AzureCloudService();
 
             return true;
         }

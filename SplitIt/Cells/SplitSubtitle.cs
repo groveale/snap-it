@@ -1,7 +1,7 @@
 using Foundation;
 using System;
 using UIKit;
-using SplitIt.Models;
+using SharedCode.Models;
 using SplitIt.Helpers;
 
 namespace SplitIt

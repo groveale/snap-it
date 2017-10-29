@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using CoreGraphics;
 using Foundation;
-using SplitIt.Models;
+using SharedCode.Models;
 using UIKit;
 
 namespace SplitIt.Helpers
