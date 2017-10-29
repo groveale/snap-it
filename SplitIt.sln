@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitIt", "SplitIt\SplitIt.csproj", "{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Release|iPhone.Build.0 = Release|iPhone
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CC412B24-7CEE-4BBE-BF61-9FE7DA9C0CAA}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
